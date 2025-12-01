@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="65px" viewBox="0 0 27 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path izq@2x</title>
+    <g id="UI-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-222.000000, -157.000000)" stroke="#BD0909">
+            <polyline id="Path-izq" transform="translate(235.500000, 189.500000) scale(-1, 1) translate(-235.500000, -189.500000) " points="223 222 248 189.5 223 157"></polyline>
+        </g>
+    </g>
+</svg>

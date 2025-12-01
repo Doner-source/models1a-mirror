@@ -1,0 +1,1 @@
+.appsContainer{display:grid;grid-template-columns:repeat(auto-fit,minmax(95px,1fr));justify-items:center;width:345px;padding:16px}

@@ -1,0 +1,1 @@
+.messageContainer{display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;width:100%;padding:10px;gap:5px;font-weight:500;font-size:13px;background:#fff;border:1px solid #dbdbdb;border-radius:10px}.messageContainer--inCard{min-width:400px;max-height:150px;overflow:auto}.messageContainer__message{color:#5a5a5a;font-weight:400}
