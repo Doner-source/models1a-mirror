@@ -9,3 +9,24 @@ body.loading {
   opacity: 1 !important;
   cursor: default !important;
 }
+/* Полностью убираем загрузочный экран Models1A */
+
+body.loading,
+body.starting,
+body.ssmanager {
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    cursor: default !important;
+}
+
+/* Убираем оба псевдоэлемента */
+body.loading::before,
+body.loading::after,
+body.starting::before,
+body.starting::after,
+body.ssmanager::before,
+body.ssmanager::after {
+    content: "";
+    display: none !important;
+    opacity: 0 !important;
+}
